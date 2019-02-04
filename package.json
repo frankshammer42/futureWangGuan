@@ -1,0 +1,13 @@
+{
+  "name": "FuturaWangguan",
+  "description": "Simple Server to update the phone position",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": ">=2.5.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.8"
+  }
+}
